@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.notserverless.ga"
 languageCode = "en-us"
 title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
 theme = "meghna-hugo"
